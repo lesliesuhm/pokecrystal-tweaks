@@ -1,4 +1,4 @@
-# Pokémon Crystal [![Build Status][travis-badge]][travis]
+# Pokémon Crystal [![Build Status]]
 
 This is a disassembly of Pokémon Crystal.
 
@@ -9,8 +9,4 @@ It builds the following roms:
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
-### irc: [freenode#pret][irc]
 
-[irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
-[travis]: https://travis-ci.org/pret/pokecrystal
-[travis-badge]: https://travis-ci.org/pret/pokecrystal.svg?branch=master
