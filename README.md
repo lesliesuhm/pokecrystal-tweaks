@@ -8,7 +8,7 @@ For Releases, see [Releases](https://github.com/lesliesuhm/pokecrystal-tweaks/re
 
 # List of things changed
 
-* Can now buy Moon Stone in both department stores for 2100 money
+* You can buy Elemental Stones & Moon Stones at the Goldenrod City Department Store on Floor 2 and in the Celadon City Department Store on Floor 2
 
 # Original README.md text below
 
